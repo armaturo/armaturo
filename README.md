@@ -1,4 +1,4 @@
-## A bit retarded Source Engine enthusiast 
+## A bit stupid Source Engine enthusiast 
 
 ### Config
 - OS: Arch Linux
