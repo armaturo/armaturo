@@ -1,7 +1,7 @@
 ## A bit stupid Source Engine enthusiast 
 
 ### Config
-- OS: Arch Linux
+- OS: Arch Linux + macOS 15.3 (Hackintosh)
 - Editor: Doom Emacs 
 
 ### PC
